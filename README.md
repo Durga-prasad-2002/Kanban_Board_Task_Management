@@ -1,4 +1,4 @@
-# Kanban_Board_Task_Management
+Task_Management
 Task Management using MERN 
 The MyNotes website, built using the MERN (MongoDB, Express.js, React, Node.js) stack
 Provides a comprehensive note-taking platform with user authentication using JSON Web Tokens (JWT).
